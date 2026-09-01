@@ -152,8 +152,4 @@
   width="100%"
 />
 
-<br>
-
-<sub>Designed with intention. Built with curiosity.</sub>
-
 </div>

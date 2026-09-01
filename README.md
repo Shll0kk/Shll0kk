@@ -1,7 +1,7 @@
 <!-- ============ HERO ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Shlok%20Agheda&fontSize=52&fontColor=f0f6fc&fontAlignY=48&desc=AI%2FML%20%C2%B7%20Backend%20%C2%B7%20Systems%20Engineering&descSize=17&descAlignY=72&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Shlok%20Agheda&fontSize=50&fontColor=f0f6fc&fontAlignY=45&desc=AI%2FML%20%C2%B7%20Backend%20%C2%B7%20Systems%20Engineering&descSize=16&descAlignY=63&descColor=8b949e&animation=fadeIn&font=Arimo" width="100%" />
 
 <br><br>
 
@@ -95,7 +95,7 @@ Privacy-first AI exam proctoring platform where all inference runs locally in th
 <h3 align="center">Stack</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,git,cpp,java&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,fastapi,react,nextjs,tailwind,pytorch,postgres,sqlite,docker,aws,nginx,vite,git&perline=8" />
 </div>
 
 <br>

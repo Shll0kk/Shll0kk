@@ -1,18 +1,18 @@
 <!-- =========================================================
-     HERO — Sharp rect, blue stroke, monospace, fadeIn
+     HERO
 ========================================================= -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=SHLOK%20AGHEDA&fontSize=55&fontColor=f0f6fc&fontAlign=50&fontAlignY=55&animation=fadeIn&font=JetBrains%20Mono&stroke=58a6ff&strokeWidth=1"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=SHLOK%20AGHEDA&fontSize=55&fontColor=f0f6fc&fontAlign=50&fontAlignY=55&animation=fadeIn&font=JetBrains%20Mono"
   width="100%"
 />
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=500&color=58a6ff&center=true&vCenter=true&width=700&height=30&lines=Final-year+Computer+Engineering+student;AI%2FML+%2B+Backend+Engineering;Open+to+new+opportunities&repeat=true"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=500&color=58a6ff&center=true&vCenter=true&width=700&height=30&lines=AI%2FML+%2B+Backend+Engineering;Open+to+new+opportunities&repeat=true"
 />
 
 <br><br>
@@ -47,7 +47,7 @@
 <br>
 
 <!-- =========================================================
-     STATS — Animated cards, single accent, dark mode
+     STATS
 ========================================================= -->
 
 <p align="center">
@@ -55,31 +55,12 @@
     src="https://github-readme-stats.vercel.app/api?username=Shll0kk&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff&border_color=21262d&hide_title=true"
     width="48%"
   />
-  <img
-    src="https://streak-stats.demolab.com?user=Shll0kk&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=f0f6fc&sideNums=8b949e&currStreakLabel=f0f6fc&sideLabels=8b949e&dates=8b949e&border=21262d"
-    width="48%"
-  />
 </p>
 
 <br>
 
 <!-- =========================================================
-     TROPHIES — Animated rank shine
-========================================================= -->
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Shll0kk&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8"
-  width="92%"
-/>
-
-</div>
-
-<br>
-
-<!-- =========================================================
-     TOP LANGUAGES — Compact
+     TOP LANGUAGES
 ========================================================= -->
 
 <div align="center">
@@ -101,7 +82,7 @@
      CURRENTLY BUILDING
 ========================================================= -->
 
-### Currently building <img src="https://cdn.simpleicons.org/rocket/58a6ff" width="16" />
+### Currently building <img src="https://cdn.simpleicons.org/blueprint/58a6ff" width="16" />
 
 <br>
 
@@ -127,7 +108,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,git,cpp,java&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,git,cpp,java&perline=8" />
 
 </div>
 
@@ -167,7 +148,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=80&section=footer&text=Open%20to%20AI%2FML%20and%20backend%20engineering%20roles&fontSize=14&fontColor=8b949e&fontAlign=50&fontAlignY=55&animation=fadeIn&font=JetBrains%20Mono&stroke=21262d&strokeWidth=1"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=80&section=footer&text=Open%20to%20AI%2FML%20and%20backend%20engineering%20roles&fontSize=14&fontColor=8b949e&fontAlign=50&fontAlignY=55&animation=fadeIn&font=JetBrains%20Mono"
   width="100%"
 />
 

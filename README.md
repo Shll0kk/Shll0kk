@@ -5,8 +5,7 @@
 
 <br><br>
 
-<a href="https://github.com/Shll0kk"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" /></a>
+<a href="https://www.linkedin.com/in/shlok-agheda/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logoColor=white" /></a>
 
 </div>

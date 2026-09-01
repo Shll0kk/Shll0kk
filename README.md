@@ -1,155 +1,103 @@
-<!-- =========================================================
-     HERO
-========================================================= -->
-
+<!-- ============ HERO ============ -->
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=SHLOK%20AGHEDA&fontSize=55&fontColor=f0f6fc&fontAlign=50&fontAlignY=55&animation=fadeIn&font=JetBrains%20Mono"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=220&section=header&text=Shlok%20Agheda&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20%C2%B7%20Backend%20%C2%B7%20Systems%20Engineering&descSize=18&descAlignY=62&descColor=e6edf3&animation=fadeIn" width="100%" />
 
-<br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=500&color=58a6ff&center=true&vCenter=true&width=700&height=30&lines=AI%2FML+%2B+Backend+Engineering;Open+to+new+opportunities&repeat=true"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=600&color=58A6FF&center=true&vCenter=true&width=650&height=32&lines=Building+AI%2FML+systems+that+ship;Backend+infra+that+holds+up+under+load;Open+to+new+opportunities&repeat=true" />
 
 <br><br>
 
-<a href="https://github.com/Shll0kk">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f0f6fc&labelColor=0d1117&color=0d1117" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117&color=0d1117" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=f0f6fc&labelColor=0d1117&color=0d1117" />
-</a>
+<a href="https://github.com/Shll0kk"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-<!-- =========================================================
-     CONTRIBUTION SNAKE
-========================================================= -->
+<!-- ============ PROJECT CARDS ============ -->
+<h3 align="center">Featured Work</h3>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**◆ Seeker**
+
+Trie-based autocomplete and search-as-you-type service with an edit-distance fuzzy fallback. Served over FastAPI with a React frontend.
+
+<sub>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff" />
+</sub>
+
+<a href="https://github.com/Shll0kk/seeker-search">→ View repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+**◆ Bastion**
+
+Relationship-based authorization (ReBAC) service that resolves object-level access decisions across nested resource graphs.
+
+<sub>
+<img src="https://img.shields.io/badge/Backend-0d1117?style=flat-square&logo=go&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Auth-0d1117?style=flat-square&logo=auth0&logoColor=58a6ff" />
+</sub>
+
+<a>Private</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**◆ SentinelCore**
+
+Edge-AI pump health monitoring that runs inference on-device to flag failures early. Built for V-Guard's Big Idea Tech Design Competition.
+
+<sub>
+<img src="https://img.shields.io/badge/Edge_AI-0d1117?style=flat-square&logo=tensorflow&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff" />
+</sub>
+
+<a>Competition project</a>
+
+</td>
+<td width="50%" valign="top">
+
+**◆ Candor**
+
+Privacy-first AI exam proctoring platform where all inference runs locally in the browser, so student video never leaves the device.
+
+<sub>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/WebAI-0d1117?style=flat-square&logo=onnx&logoColor=58a6ff" />
+</sub>
+
+<a>Private</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ============ STACK ============ -->
+<h3 align="center">Stack</h3>
 
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Shll0kk/Shll0kk/output/github-contribution-grid-snake-dark.svg"
-  width="92%"
-/>
-
-</div>
-
-<br>
-
-<!-- =========================================================
-     STATS
-========================================================= -->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Shll0kk&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff&border_color=21262d&hide_title=true"
-    width="48%"
-  />
-</p>
-
-<br>
-
-<!-- =========================================================
-     TOP LANGUAGES
-========================================================= -->
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shll0kk&layout=compact&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=21262d&hide_title=true"
-  width="40%"
-/>
-
-</div>
-
-<br><br>
-
----
-
-<br>
-
-<!-- =========================================================
-     CURRENTLY BUILDING
-========================================================= -->
-
-### Currently building <img src="https://cdn.simpleicons.org/blueprint/58a6ff" width="16" />
-
-<br>
-
-| Project | Description | Repo |
-|:---|:---|:---:|
-| **Seeker** | Trie-based autocomplete service with edit-distance fuzzy fallback | [→](https://github.com/Shll0kk/seeker-search) |
-| **Bastion** | Relationship-based authorization (ReBAC) service for object-level access | — |
-| **SentinelCore** | Edge-AI pump health monitoring · V-Guard Big Idea Tech Design Competition | — |
-
-<br>
-
----
-
-<br>
-
-<!-- =========================================================
-     STACK
-========================================================= -->
-
-### Stack <img src="https://cdn.simpleicons.org/stackblitz/58a6ff" width="16" />
-
-<br>
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,git,cpp,java&perline=8" />
-
 </div>
 
 <br>
 
----
-
-<br>
-
-<!-- =========================================================
-     ACTIVITY
-========================================================= -->
-
-### Activity <img src="https://cdn.simpleicons.org/githubactions/58a6ff" width="16" />
-
-<br>
-
+<!-- ============ SNAKE ============ -->
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Shll0kk&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff10&radius=0&custom_title="
-  width="92%"
-/>
-
+<img src="https://raw.githubusercontent.com/Shll0kk/Shll0kk/output/github-contribution-grid-snake-dark.svg" width="92%" />
 </div>
 
-<br>
-
----
-
-<br>
-
-<!-- =========================================================
-     FOOTER
-========================================================= -->
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=80&section=footer&text=Open%20to%20AI%2FML%20and%20backend%20engineering%20roles&fontSize=14&fontColor=8b949e&fontAlign=50&fontAlignY=55&animation=fadeIn&font=JetBrains%20Mono"
-  width="100%"
-/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,55:1f6feb,100:0d1117&height=110&section=footer" width="100%" />

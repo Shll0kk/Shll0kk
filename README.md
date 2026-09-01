@@ -1,7 +1,7 @@
 <!-- ============ HERO ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Shlok%20Agheda&fontSize=50&fontColor=f0f6fc&fontAlignY=45&desc=AI%2FML%20%C2%B7%20Backend%20%C2%B7%20Systems%20Engineering&descSize=16&descAlignY=63&descColor=8b949e&animation=fadeIn&font=Arimo" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=160&section=header&text=Shlok%20Agheda&fontSize=50&fontColor=f0f6fc&fontAlignY=40&desc=AI%2FML%20%C2%B7%20Backend%20%C2%B7%20Systems%20Engineering&descSize=16&descAlignY=68&descColor=8b949e&animation=fadeIn&font=Arimo" width="100%" />
 
 <br><br>
 
@@ -49,11 +49,12 @@ Trie-based autocomplete and search-as-you-type service with an edit-distance fuz
 Relationship-based authorization (ReBAC) service that resolves object-level access decisions across nested resource graphs.
 
 <sub>
-<img src="https://img.shields.io/badge/Backend-0d1117?style=flat-square&logo=go&logoColor=58a6ff" />
-<img src="https://img.shields.io/badge/Auth-0d1117?style=flat-square&logo=auth0&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff" />
 </sub>
 
-<a>Private</a>
+`Private`
 
 </td>
 </tr>
@@ -69,7 +70,7 @@ Edge-AI pump health monitoring that runs inference on-device to flag failures ea
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff" />
 </sub>
 
-<a>Competition project</a>
+`Private`
 
 </td>
 <td width="50%" valign="top">
@@ -79,11 +80,11 @@ Edge-AI pump health monitoring that runs inference on-device to flag failures ea
 Privacy-first AI exam proctoring platform where all inference runs locally in the browser, so student video never leaves the device.
 
 <sub>
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff" />
-<img src="https://img.shields.io/badge/WebAI-0d1117?style=flat-square&logo=onnx&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff" />
 </sub>
 
-<a>Private</a>
+`Private`
 
 </td>
 </tr>

@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=90&section=header&text=shlok@ceat%20~%20%25&fontSize=22&fontColor=39FF14&fontAlignY=55&fontAlign=5&desc=zsh&descAlignY=80&descAlign=5&descSize=12&descColor=6b7280" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=90&section=header&text=shlok%20~%20%25&fontSize=22&fontColor=39FF14&fontAlignY=45&fontAlign=50&desc=zsh&descAlignY=70&descAlign=50&descSize=12&descColor=6b7280" width="100%" />
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=750&lines=%24+whoami;%3E+Shlok+Agheda+%E2%80%94+final-year+CE+student%2C+AI%2FML+%2B+backend;%24+cat+status.txt;%3E+Interning+on+the+Digital+Team+at+CEAT+Ltd." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=750&lines=%24+whoami;%3E+Shlok+Agheda+%E2%80%94+final-year+CE+student%2C+AI%2FML+%2B+backend;%24+cat+status.txt;%3E+Building+AI%2FML+and+backend+systems%2C+open+to+new+roles" />
 </p>
 
 ---
